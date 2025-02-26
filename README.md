@@ -4,7 +4,7 @@
 
   Simple landing page design, Build using HTML, CSS.
 
-  <a href="https://codewithsadee.github.io/foodie/"><strong>➥ Live Demo</strong></a>
+  <a href="https://iamalshahed.github.io/h-landing-one/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
